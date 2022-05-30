@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animal Feed</string>
+    <string name="cattle_type">मवेशी प्रकार</string>
+    <string name="cattle_breed">नस्ल</string>
+    <string name="cattle_weight">वजन</string>
+    <string name="cattle_age">आयु</string>
+    <string name="hint_weight">किलो</string>
+    <string name="hint_age">महीना</string>
+    <string name="type_goat">बकरी</string>
+    <string name="type_sheep">भेड़</string>
+    <String name="type_cow">गाय</String>
+    <string name="type_buffalo">भेंस</string>
+
+    <!-- Goat Breeds-->
+    <string-array name="goat_breeds">
+        <item>Goat Breed 1</item>
+        <item> Goat Breed 2</item>
+    </string-array>
+</resources>

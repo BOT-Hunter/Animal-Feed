@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Animal Feed</string>
+    <string name="cattle_type">Cattle Type</string>
+    <string name="cattle_breed">Breed</string>
+    <string name="cattle_weight">Weight</string>
+    <string name="cattle_age">Age</string>
+    <string name="hint_weight">in KG</string>
+    <string name="hint_age">in months</string>
+    <string name="type_goat">Goat</string>
+    <string name="type_sheep">Sheep</string>
+    <String name="type_cow">Cow</String>
+    <string name="type_buffalo">Buffalo</string>
+
+    <string-array name="goat_breeds">
+        <item>Goat Breed 1</item>
+        <item> Goat Breed 2</item>
+    </string-array>
+
+
 </resources>

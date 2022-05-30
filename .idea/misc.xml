@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Aman_/AndroidStudioProjects/Animal-Feed/app/src/main/res/layout/activity_data_input.xml" value="0.25" />
+        <entry key="..\:/Users/Aman_/AndroidStudioProjects/Animal-Feed/app/src/main/res/layout/result_activity.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Aman_/AndroidStudioProjects/Animal-Feed/app/src/main/res/layout/spinner_list_item.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Saurabh/AndroidStudioProjects/AnimalFeed/app/src/main/res/layout/activity_main.xml" value="0.2033514492753623" />
-        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/AnimalFeed/app/src/main/res/layout/language_select_activity.xml" value="0.10285714285714286" />
-        <entry key="..\:/Users/Saurabh/AndroidStudioProjects/AnimalFeed/app/src/main/res/layout/result_activity.xml" value="0.18857142857142858" />
       </map>
     </option>
   </component>
@@ -14,12 +15,5 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
-  </component>
-  <component name="VisualizationToolProject">
-    <option name="state">
-      <ProjectState>
-        <option name="scale" value="0.10285714285714286" />
-      </ProjectState>
-    </option>
   </component>
 </project>
