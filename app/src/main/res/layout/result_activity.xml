@@ -13,7 +13,7 @@
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.276"
+        app:layout_constraintHorizontal_bias="0.192"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="99dp" />
 
@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="O/P 1:"
-        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteX="69dp"
         tools:layout_editor_absoluteY="141dp" />
 
     <TextView
@@ -30,16 +30,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="O/P 2:"
-        tools:layout_editor_absoluteX="102dp"
-        tools:layout_editor_absoluteY="169dp" />
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="171dp" />
 
     <TextView
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="O/P 3:"
-        tools:layout_editor_absoluteX="102dp"
-        tools:layout_editor_absoluteY="199dp" />
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="203dp" />
 
     <Button
         android:id="@+id/button2"
@@ -55,7 +55,16 @@
         android:layout_height="wrap_content"
         android:text="Calculate again?"
         android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="424dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remarks:"
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="283dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
