@@ -7,14 +7,40 @@
     <string name="cattle_age">आयु</string>
     <string name="hint_weight">किलो</string>
     <string name="hint_age">महीना</string>
-    <string name="type_goat">बकरी</string>
-    <string name="type_sheep">भेड़</string>
-    <String name="type_cow">गाय</String>
-    <string name="type_buffalo">भेंस</string>
+    <string name="goat">बकरी</string>
+    <string name="cow">गाय</string>
+    <string name="sheep">भेड़</string>
+    <string name="buffalo">भेंस</string>
+
+
+    <string-array name="cattle_type">
+        <item>बकरी</item>
+        <item >भेंस</item>
+        <item >भेड़</item>
+        <item>गाय</item>
+    </string-array>
 
     <!-- Goat Breeds-->
     <string-array name="goat_breeds">
         <item>Goat Breed 1</item>
         <item> Goat Breed 2</item>
+    </string-array>
+
+    <string-array name="cow_breeds">
+        <item>Cow Breed 1</item>
+        <item> Cow Breed 2</item>
+    </string-array>
+    <string-array name="Buffalo_breeds">
+        <item>Buffalo Breed 1</item>
+        <item> Buffalo Breed 2</item>
+    </string-array>
+    <string-array name="sheep_breeds">
+        <item>sheep Breed 1</item>
+        <item> sheep Breed 2</item>
+    </string-array>
+
+    <string-array name="buffalo_breeds">
+        <item>buffalo Breed 1</item>
+        <item> buffalo Breed 2</item>
     </string-array>
 </resources>

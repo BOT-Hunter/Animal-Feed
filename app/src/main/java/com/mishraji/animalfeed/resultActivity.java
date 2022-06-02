@@ -30,7 +30,7 @@ public class resultActivity extends AppCompatActivity {
         calculateAgain.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent main = new Intent(resultActivity.this, MainActivity.class);
+                Intent main = new Intent(resultActivity.this, DataInputActivity.class);
                 startActivity(main);
             }
         });
